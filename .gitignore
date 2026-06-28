@@ -1,7 +1,2 @@
-*.jpg
 __pycache__/
-.venv/
-Automated_attendance.pptx
-attendance_sheet.csv
-face_attendance_model.pkl
-labels/
+*.jpg
